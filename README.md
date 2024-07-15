@@ -1,1 +1,1 @@
-# VAERS-Apriori-Algorithm
+- This Java project takes the COVID-19 data from the VAERS-Data-Sorter and applies the Apriori Algorithm to it. The Apriori Algorithm takes data fields that are common across different entries and pairs them together and keeps doing this until no more pairs can be made. This Algorithm reveals the most common data fields that are in the COVID-19 data and make assumptions based off of those results.
